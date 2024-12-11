@@ -237,6 +237,7 @@ input{
 .btn_2{
   background-color: var(--white);
   color: var(--text-light);
+  margin-top: 10px;
 }
 
 .btn_2:hover{
